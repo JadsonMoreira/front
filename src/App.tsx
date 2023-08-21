@@ -4,9 +4,6 @@ import CustomizedAccordions from './components'
 import Footer from './components/footer';
 import Cart from './components/cart';
 
-
-
-
 function App() {
 
   return (
